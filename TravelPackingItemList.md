@@ -20,6 +20,8 @@
 - [ ] パスポートのコピー
 - [ ] ビザ
 - [ ] ビザのコピー
+- [ ] バックパック
+   - 赤城：これ買いました。（[Amazon | マウンテントップ（Mountaintop）アウトドア 登山 旅行 40L ハイキング クライミング スクール バックパック デイバック　撥水-M5812II | マウンテントップ(Mountaintop) | 登山リュック・ザック](https://www.amazon.co.jp/gp/product/B01AJVMQSI/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1)）
 - [x] 電源タップ
     - 赤城が購入済み。
     - [Amazon.co.jp： 海外旅行用 変換 アダプター プラグ お得なエレプラグW 2個セット (B3タイプ＋B3タイプ) RW-WS05: パソコン・周辺機器](https://www.amazon.co.jp/gp/product/B01N8RDRCB/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
@@ -55,9 +57,13 @@
 - [ ] ホッカイロ
    - 列車に乗る時と、バラナシでの早朝沐浴を見る際に重宝する。
 
+
 ## 2. あると便利
 - [ ] トイレットペーパー
 - [ ] 肩がけバッグ的な（スリ予防）
+   - 赤城：これ買いました（[Amazon.co.jp： MYCARBON 旅行 ウエストポーチ 折りたたみ式【高級LYCRA生地 RFID ブロッキング セキュリティポーチ】スキミング予防対策 ウエストバッグ ランニングベルト パスポートケース 防犯グッズ アウトドア 旅行用品 貴重品入れ 盗難対策 iPhone 7 Plus /6S Plus収納可 薄型 軽量 ブラック: 車＆バイク](https://www.amazon.co.jp/gp/product/B06XKCYFYQ/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1))
+- [ ] 南京錠(寝台列車とかでの盗難防止用)
+   - 赤城：これ買いました（[Amazon.co.jp： Powangle ２個セット TSA鍵 南京錠 旅行用 安心 防犯グッズ アメリカ安全運送局認定 暗証番号 自転車鍵 ワイヤーロープ付き (ブラック): シューズ＆バッグ](https://www.amazon.co.jp/gp/product/B0761TXXRM/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1))
 - [ ] 整腸剤
 - [ ] 薬
 - [ ] サンダル
@@ -66,7 +72,11 @@
 - [ ] モバイルバッテリー
    - できれば大容量のやつ
 - [ ] ばんそうこう
-- [ ] 選択紐
+- [ ] 洗濯紐
+- [ ] 下剤
+- [ ] 蚊取り線香
+- [ ] 旅行用ナイフ
+- [ ] 手ぬぐい・タオル
 
 ## 3. 人による
 ### 赤城
