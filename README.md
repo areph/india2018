@@ -43,6 +43,8 @@
 
 ### したいこと
 - カタカリ（コーチンの民族ダンス？演劇？）
+- ケララで使えるSIMカードGET
+  * http://indiamatome.com/sightseeing/keralasim
 
 ### 宿泊
 - https://www.airbnb.jp/rooms/13916068
